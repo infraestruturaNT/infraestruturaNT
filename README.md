@@ -1,4 +1,4 @@
-![NT](https://media.licdn.com/dms/image/C4D0BAQHxRXkaN-iirA/company-logo_200_200/0/1630573321013/redenovotempo_logo?e=2147483647&v=beta&t=ubj9B-Fe7EVcR2b3FrxL-4cYVaoBJNGGRVteVbCPUyU)	
+![NT](https://www.novotempo.com/wp-content/uploads/2019/11/logo-novo-tempo-media-kit.png)	
 <br><br>
 # Documentação para equipe de Infraestrutura de Rede de cumunicações Novo Tempo.
 
