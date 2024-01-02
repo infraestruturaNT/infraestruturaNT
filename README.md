@@ -1,7 +1,9 @@
 Documentação para equipe de Infraestrutura de Rede de cumunicações Novo Tempo.
 
------------------------------------------------------------------------------
-
+---
+> [!WARNING]
+> Para ter acesso aos documentos, faça login com o usuario infraestruturaNT ou com o email da infra
+---
 
 > ### [🔥 Firewall](https://github.com/infraestruturaNT/firewall)
 > ### [✅ PROXMOX](https://github.com/infraestruturaNT/proxmox)
@@ -9,7 +11,7 @@ Documentação para equipe de Infraestrutura de Rede de cumunicações Novo Temp
 > ### [💽 CEPH](https://github.com/infraestruturaNT/ceph)
 > ### [⚠️ RPORT](https://github.com/infraestruturaNT/rport)
 
-
+---
 
 <!---
 
@@ -30,4 +32,5 @@ https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-wr
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 --->
+
 
