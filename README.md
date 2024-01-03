@@ -13,6 +13,7 @@
 > ### [📺 NOC](https://github.com/infraestruturaNT/noc)
 > ### [💽 CEPH](https://github.com/infraestruturaNT/ceph)
 > ### [⚠️ RPORT](https://github.com/infraestruturaNT/rport)
+> ### [🖥️ Datacenter](https://github.com/infraestruturaNT/datacenter)
 
 ---
 
