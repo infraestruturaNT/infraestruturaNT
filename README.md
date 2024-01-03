@@ -9,6 +9,7 @@
 
 > ### [🔥 Firewall](https://github.com/infraestruturaNT/firewall)
 > ### [✅ PROXMOX](https://github.com/infraestruturaNT/proxmox)
+> ### [🌐 Switches](https://github.com/infraestruturaNT/switches)
 > ### [📺 NOC](https://github.com/infraestruturaNT/noc)
 > ### [💽 CEPH](https://github.com/infraestruturaNT/ceph)
 > ### [⚠️ RPORT](https://github.com/infraestruturaNT/rport)
