@@ -7,6 +7,7 @@
 > Para ter acesso aos documentos, faça login com o usuario infraestruturaNT ou com o email da infra
 ---
 
+> ### [📎 Docs](https://github.com/infraestruturaNT/docs)
 > ### [🔥 Firewall](https://github.com/infraestruturaNT/firewall)
 > ### [✅ PROXMOX](https://github.com/infraestruturaNT/proxmox)
 > ### [🌐 Switches](https://github.com/infraestruturaNT/switches)
